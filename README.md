@@ -24,5 +24,3 @@ Frontend-only demonstration: no payment provider, backend, database, inventory s
 "Designed and developed NOVA, a responsive e-commerce storefront using HTML, CSS and JavaScript. Implemented product discovery with search, category navigation, sorting and filters, plus persistent wishlist and cart functionality, product detail dialogs, and a simulated checkout flow."
 
 Suggested GitHub repository: `nova-ecommerce-store`
-
-Before publishing, test on mobile and desktop, take screenshots, and upload `index.html`, `style.css`, `script.js` and `README.md` to a public repository.
